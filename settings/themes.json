@@ -7,13 +7,21 @@
     "samplesPerFrame": 128,
     "pattern": "wave",
     "waveTop": 150,
-    "waveBottom": 420,
+    "waveBottom": 720,
     "captionTop": 470,
     "captionFont": "300 52px 'Source Sans Pro'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080
+  },
+  "Test": {
+    "backgroundColor": "#72A2A9",
+    "foregroundColor": "#EC0101",
+    "captionColor": "#C5C5C5",
+    "waveColor": "#E3A816",
+    "pattern": "bricks",
+    "captionTop": 30
   },
   "Basic": {
     "backgroundColor": "#eee",
