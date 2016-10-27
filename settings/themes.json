@@ -15,6 +15,15 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "NERDETTE": {
+    "backgroundImage": "nerdette.jpg",
+    "foregroundColor": "#000",
+    "waveColor":"fff",
+    "pattern":"bars",
+    "captionTop": 600,
+    "waveTop": 90,
+    "waveBottom": 330
+  },
   "WBEZ black and white": {
     "backgroundColor": "#fff",
     "captionColor": "#000",
