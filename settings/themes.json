@@ -24,6 +24,34 @@
     "waveTop": 90,
     "waveBottom": 330
   },
+  "Oprah 3": {
+    "backgroundImage": "MakingOprah3.png3",
+    "foregroundColor": "#000",
+    "waveColor":"fff",
+    "pattern":"bars",
+    "captionTop": 600,
+    "waveTop": 90,
+    "waveBottom": 330
+  },
+  "Oprah 4": {
+    "backgroundImage": "MakingOprah4.png",
+    "foregroundColor": "#fff",
+    "waveColor":"#fff",
+    "pattern":"bars",
+    "captionTop": 500
+  },
+  "Oprah 5": {
+    "backgroundImage": "MakingOprah5.png",
+    "foregroundColor": "#000",
+    "waveColor":"#000",
+    "captionColor": "#000",
+    "pattern":"bars",
+    "captionTop": 400,
+    "captionLeft":800,
+    "waveTop": 0,
+    "waveBottom": 330,
+    "waveLeft":600
+  },
   "WBEZ black and white": {
     "backgroundColor": "#fff",
     "captionColor": "#000",
