@@ -15,23 +15,12 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "NERDETTE": {
-    "backgroundImage": "nerdette.jpg",
+    "Oprah 3": {
+    "backgroundImage": "MakingOprah3.png",
     "foregroundColor": "#000",
-    "waveColor":"fff",
+    "waveColor":"#000",
     "pattern":"bars",
-    "captionTop": 600,
-    "waveTop": 90,
-    "waveBottom": 330
-  },
-  "Oprah 3": {
-    "backgroundImage": "MakingOprah3.png3",
-    "foregroundColor": "#000",
-    "waveColor":"fff",
-    "pattern":"bars",
-    "captionTop": 600,
-    "waveTop": 90,
-    "waveBottom": 330
+    "captionTop": 500
   },
   "Oprah 4": {
     "backgroundImage": "MakingOprah4.png",
@@ -40,17 +29,26 @@
     "pattern":"bars",
     "captionTop": 500
   },
-  "Oprah 5": {
+    "Oprah 5": {
     "backgroundImage": "MakingOprah5.png",
     "foregroundColor": "#000",
     "waveColor":"#000",
-    "captionColor": "#000",
-    "pattern":"bars",
-    "captionTop": 400,
+    "captionColor": "#fff",
+    "pattern":"wave",
+    "captionTop": 360,
     "captionLeft":800,
     "waveTop": 0,
-    "waveBottom": 330,
-    "waveLeft":600
+    "waveBottom": 720,
+    "waveLeft":650
+  },
+  "NERDETTE": {
+    "backgroundImage": "nerdette.jpg",
+    "foregroundColor": "#000",
+    "waveColor":"fff",
+    "pattern":"bars",
+    "captionTop": 600,
+    "waveTop": 90,
+    "waveBottom": 330
   },
   "WBEZ black and white": {
     "backgroundColor": "#fff",
