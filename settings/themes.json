@@ -15,7 +15,29 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-    "Oprah 3": {
+  "Room 205 1": {
+    "backgroundImage": "ripe-unripe.png",
+    "foregroundColor": "#000",
+    "waveColor":"#292a3f",
+    "captionColor":"#292a3f",
+    "pattern":"wave",
+    "captionTop": 360,
+    "captionLeft":800,
+    "waveTop": 180,
+    "waveBottom": 430
+ },
+  "Room 205 2": {
+    "backgroundImage": "intro-kelsey.png",
+    "foregroundColor": "#000",
+    "waveColor":"#fff",
+    "captionColor": "#fff",
+    "pattern":"wave",
+    "captionTop": 360,
+    "captionLeft":800,
+    "waveTop": 448,
+    "waveBottom": 600
+ },
+  "Oprah 3": {
     "backgroundImage": "MakingOprah3.png",
     "foregroundColor": "#000",
     "waveColor":"#000",
@@ -29,7 +51,7 @@
     "pattern":"bars",
     "captionTop": 500
   },
-    "Oprah 5": {
+  "Oprah 5": {
     "backgroundImage": "MakingOprah5.png",
     "foregroundColor": "#000",
     "waveColor":"#000",
