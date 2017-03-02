@@ -86,6 +86,10 @@ Open an issue or contact me on [Twitter](https://twitter.com/veltman).
 * Sahar Baharloo
 * Delaney Simmons
 
+## WBEZ Specific Info
+
+Our audiogram setup lives in the NPRone server, 
+
 ## License
 
 Copyright (c) 2016 New York Public Radio

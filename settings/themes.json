@@ -14,7 +14,19 @@
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080
-  },
+},
+  "StoryCorps": {
+    "waveTop": 470,
+    "waveBottom": 650,
+    "captionTop": 650,
+    "captionLineHeight": 52,
+    "captionLineHeight": 7,
+    "captionLeft": 20,
+    "captionRight": 1260,
+    "backgroundImage": "StoryCorps-audiogram-backgound-170303.png",
+    "backgroundColor": "#ee283c",
+    "foregroundColor": "white"
+},
   "Room 205 1": {
     "backgroundImage": "ripe-unripe.png",
     "foregroundColor": "#000",
