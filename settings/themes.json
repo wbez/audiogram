@@ -15,6 +15,17 @@
     "captionLeft": 200,
     "captionRight": 1080
 },
+"Rectangle with background image": {
+    "width": 1280,
+    "height": 720,
+    "samplesPerFrame": 64,
+    "waveTop": 448,
+    "waveBottom": 600,
+    "captionTop": 600,
+    "waveColor": "#d4cfc5",
+    "foregroundColor": "#fff",
+    "backgroundImage": "rahmnew.jpg"
+},
   "StoryCorps": {
     "waveTop": 470,
     "waveBottom": 650,
