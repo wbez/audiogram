@@ -95,6 +95,16 @@
     "waveTop": 90,
     "waveBottom": 330
   },
+  
+  "NERDETTE-thrones": {
+    "backgroundImage": "nerdette-thrones.jpg",
+    "foregroundColor": "#000"
+    "pattern":"wave",
+    "captionTop": 600,
+    "waveTop": 445,
+    "waveBottom": 560
+  },
+  
   "WBEZ black and white": {
     "backgroundColor": "#fff",
     "captionColor": "#000",
