@@ -97,8 +97,8 @@
   },
   
   "NERDETTE-thrones": {
-    "backgroundImage": "nerdette-thrones.jpg",
-    "foregroundColor": "#000"
+    "backgroundImage": "NERDETTE-thrones.jpg",
+    "foregroundColor": "#000",
     "pattern":"wave",
     "captionTop": 600,
     "waveTop": 445,
