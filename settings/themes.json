@@ -38,6 +38,30 @@
     "backgroundColor": "#ee283c",
     "foregroundColor": "white"
 },
+  
+  "EOH Thomas": {
+    "backgroundImage": "EOH-thomas.jpg",
+    "waveTop": 592,
+    "waveBottom": 682,
+    "captionBottom": 484,
+    "captionLeft": 120,
+    "waveColor":"#fff",
+    "captionColor": "#000000",
+    "captionRight": 500
+},
+
+  "EOH Generic": {
+    "backgroundImage": "EOH-generic.jpg",
+    "foregroundColor": "#fff",
+    "waveTop": 451,
+    "waveBottom": 603,
+    "captionBottom": 150,
+    "captionFont": "400 40px 'Source Sans Pro'",
+    "captionLineHeight": 48,
+    "captionLeft": 100,
+    "captionRight": 1180
+},
+  
   "Room 205 1": {
     "backgroundImage": "ripe-unripe.png",
     "foregroundColor": "#000",
