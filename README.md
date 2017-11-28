@@ -1,5 +1,7 @@
 # Audiogram
 
+[![Build Status](https://travis-ci.org/nypublicradio/audiogram.svg?branch=alpha)](https://travis-ci.org/nypublicradio/audiogram)
+
 🔊 -> 🎥
 
 Audiogram is a library for generating shareable videos from audio clips.
@@ -74,10 +76,6 @@ This project is a work in progress.  If you have ideas or run into problems, ope
 ## Notes about design
 
 Ultimately we had a few priorities in how we set this up, knowing that we would produce a lot of these under a variety of NYPR brands. We wanted to keep it simple, and we wanted a visual that strongly implies "AUDIO" to encourage people to unmute. As an added enhancement, the first and last frames of the video automatically use the "peakiest" frame from the entire thing so that it's a little more obvious in a thumbnail. If you want something other than the built-in waveform patterns, like dots or dancing emoji, there are some notes about how to go a different direction in the [Developer notes](DEVELOPERS.md#use-different-animations-besides-the-wavebars).
-
-## Questions/help
-
-Open an issue or contact me on [Twitter](https://twitter.com/veltman).
 
 ## Contributors
 
