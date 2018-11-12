@@ -135,6 +135,7 @@
     "waveColor": "#000"
   },
   "WBEZ grey": {
+    "backgroundImage": "wbez-gray.jpg",
     "backgroundColor": "#41474E",
     "captionColor": "#dbe0e6",
     "waveColor": "#dbe0e6"
