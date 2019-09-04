@@ -67,7 +67,7 @@
         "width": 1280,
         "height": 720,
         "backgroundImage": "ss-stories.jpg",
-        "foregroundColor": "#000",
+        "foregroundColor": "#fff",
         "pattern": "wave",
         "captionTop": 610,
         "waveTop": 435,
