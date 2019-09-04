@@ -1,224 +1,76 @@
 {
-  "default": {
-    "width": 1280,
-    "height": 720,
-    "framesPerSecond": 20,
-    "maxDuration": 300,
-    "samplesPerFrame": 128,
-    "pattern": "wave",
-    "waveTop": 150,
-    "waveBottom": 420,
-    "captionTop": 470,
-    "captionFont": "700 52px 'Source Sans Pro'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-    "captionLeft": 200,
-    "captionRight": 1080
-},
-  
- "WBEZ black and white": {
-    "backgroundColor": "#fff",
-    "captionColor": "#000",
-    "waveColor": "#000"
-  },
-  
- "WBEZ grey": {
-    "backgroundColor": "#41474E",
-    "captionColor": "#dbe0e6",
-    "waveColor": "#dbe0e6"
-  },
-  
- "WBEZ teal": {
-    "backgroundColor": "#72a2a9",
-    "captionColor": "#fff",
-    "waveColor": "#fff"
-  },
-  
- "WBEZ yellow": {
-    "backgroundColor": "#f9b816",
-    "captionColor": "#252525",
-    "waveColor": "#252525"
-  },
-  
-  "NERDETTE": {
-    "backgroundImage": "nerdette.jpg",
-    "foregroundColor": "#000",
-    "waveColor":"fff",
-    "pattern":"bars",
-    "captionTop": 600,
-    "waveTop": 90,
-    "waveBottom": 330
-  },
-  
-  "16 Shots": {
-    "captionAlign": "left",
-    "captionTop": 58,
-    "captionLeft": 70,
-    "captionRight": 930,
-    "waveBottom": 607,
-    "waveTop": 400,
-    "backgroundImage": "16shotsbg.jpg",
-    "backgroundColor": "black",
-    "foregroundColor": "white"
-  },
-  
-  "Taking Cover": {
-    "captionAlign": "left",
-    "captionTop": 58,
-    "captionLeft": 70,
-    "captionRight": 930,
-    "waveBottom": 607,
-    "waveTop": 400,
-    "backgroundImage": "taking-cover-audiogram.jpg",
-    "backgroundColor": "black",
-    "foregroundColor": "white"
-  },
-  
-"Rectangle with background image": {
-    "width": 1280,
-    "height": 720,
-    "samplesPerFrame": 64,
-    "waveTop": 448,
-    "waveBottom": 600,
-    "captionTop": 600,
-    "waveColor": "#d4cfc5",
-    "foregroundColor": "#fff",
-    "backgroundImage": "rahmnew.jpg"
-},
-  
-  "StoryCorps": {
-    "waveTop": 470,
-    "waveBottom": 650,
-    "captionTop": 630,
-    "captionLineHeight": 52,
-    "captionLeft": 20,
-    "captionRight": 1260,
-    "backgroundImage": "storycorps.jpg",
-    "backgroundColor": "#ee283c",
-    "foregroundColor": "white"
-},
-  
-  "Oprah 3": {
-    "backgroundImage": "MakingOprah3.png",
-    "foregroundColor": "#000",
-    "waveColor":"#000",
-    "pattern":"bars",
-    "captionTop": 500
-  },
-  "Oprah 4": {
-    "backgroundImage": "MakingOprah4.png",
-    "foregroundColor": "#fff",
-    "waveColor":"#fff",
-    "pattern":"bars",
-    "captionTop": 500
-  },
-  "Oprah 5": {
-    "backgroundImage": "MakingOprah5.png",
-    "foregroundColor": "#000",
-    "waveColor":"#000",
-    "captionColor": "#fff",
-    "pattern":"wave",
-    "captionTop": 360,
-    "captionLeft":800,
-    "waveTop": 0,
-    "waveBottom": 720,
-    "waveLeft":650
-  },
- 
-  "NERDETTE-thrones": {
-    "backgroundImage": "NERDETTE-thrones.jpg",
-    "foregroundColor": "#000",
-    "pattern":"wave",
-    "captionTop": 600,
-    "waveTop": 445,
-    "waveBottom": 560
-  },
-  
-  "Basic": {
-    "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
-  },
-  "Neon": {
-    "backgroundColor": "#556270",
-    "foregroundColor": "#c7f464"
-  },
-  "Three colors": {
-    "backgroundColor": "#eee",
-    "captionColor": "#515151",
-    "waveColor": "#00b4ff"
-  },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
-  },
-  "Bars": {
-    "pattern": "bars",
-    "foregroundColor": "#d84a4a"
-  },
-  "Rounded bars with bottom left text": {
-    "pattern": "roundBars",
-    "foregroundColor": "#d84a4a",
-    "captionAlign": "left",
-    "captionLeft": 60,
-    "captionRight": 640,
-    "captionBottom": 660,
-    "captionTop": null
-  },
-  "Line": {
-    "backgroundColor": "#edc951",
-    "foregroundColor": "#00a0b0",
-    "pattern": "line"
-  },
-  "Curve": {
-    "backgroundColor": "#00a0b0",
-    "foregroundColor": "#edc951",
-    "pattern": "curve"
-  },
-  "Bricks": {
-    "backgroundColor": "#8771aa",
-    "foregroundColor": "#fff",
-    "pattern": "bricks"
-  },
-  "Equalizer on the bottom": {
-    "backgroundColor": "#222",
-    "foregroundColor": "#fff",
-    "pattern": "equalizer",
-    "captionTop": 40,
-    "captionBottom": 380,
-    "waveTop": 420,
-    "waveBottom": 720
-  },
-  "Bold italic orange": {
-    "captionAlign": "right",
-    "captionTop": null,
-    "captionBottom": 660,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundColor": "#fd5a1e",
-    "waveColor": "#fff",
-    "captionFont": "bold italic 52px 'Source Sans Pro'"
-  },
-  "Pixelated": {
-    "backgroundColor": "#ecd078",
-    "foregroundColor": "#c02942",
-    "pattern": "pixel"
-  },
-  "Square with background image": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
-  }
+    "default": {
+        "width": 1280,
+        "height": 720,
+        "framesPerSecond": 20,
+        "maxDuration": 300,
+        "samplesPerFrame": 128,
+        "pattern": "wave",
+        "waveTop": 150,
+        "waveBottom": 420,
+        "captionTop": 470,
+        "captionFont": "700 52px 'Source Sans Pro'",
+        "captionLineHeight": 52,
+        "captionLineSpacing": 7,
+        "captionLeft": 200,
+        "captionRight": 1080
+    },
+    "WBEZ black and white": {
+        "backgroundColor": "#fff",
+        "captionColor": "#000",
+        "waveColor": "#000"
+    },
+    "WBEZ grey": {
+        "backgroundColor": "#41474E",
+        "captionColor": "#dbe0e6",
+        "waveColor": "#dbe0e6"
+    },
+    "WBEZ teal": {
+        "backgroundColor": "#72a2a9",
+        "captionColor": "#fff",
+        "waveColor": "#fff"
+    },
+    "WBEZ yellow": {
+        "backgroundColor": "#f9b816",
+        "captionColor": "#252525",
+        "waveColor": "#252525"
+    },
+    "NERDETTE": {
+        "backgroundImage": "nerdette.jpg",
+        "foregroundColor": "#000",
+        "waveColor": "fff",
+        "pattern": "bars",
+        "captionTop": 600,
+        "waveTop": 90,
+        "waveBottom": 330
+    },
+    "StoryCorps": {
+        "waveTop": 470,
+        "waveBottom": 650,
+        "captionTop": 630,
+        "captionLineHeight": 52,
+        "captionLeft": 20,
+        "captionRight": 1260,
+        "backgroundImage": "StoryCorps-Audiogram-bg.jpg",
+        "captionColor": "#4a4a49",
+        "waveColor": "#ee283c"
+    },
+    "NERDETTE-thrones": {
+        "backgroundImage": "NERDETTE-thrones.jpg",
+        "foregroundColor": "#000",
+        "pattern": "wave",
+        "captionTop": 600,
+        "waveTop": 445,
+        "waveBottom": 560
+    },
+    "South Side Stories": {
+        "width": 1280,
+        "height": 720,
+        "backgroundImage": "ss-stories.jpg",
+        "foregroundColor": "#000",
+        "pattern": "wave",
+        "captionTop": 610,
+        "waveTop": 435,
+        "waveBottom": 600
+    }
 }
